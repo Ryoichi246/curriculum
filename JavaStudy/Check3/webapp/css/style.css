@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.header{
+	background-color: gray;
+}
+label[for="login"] {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+label[for="date"] {
+	padding: 10px;
+	font-size: 10px;
+}
+label[for="hoge"] {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+.footer{
+	background-color: gray;
+}
+.main{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
