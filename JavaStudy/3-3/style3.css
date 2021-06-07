@@ -1,0 +1,89 @@
+.clearfix::after { 
+    content: '';
+    display: block; 
+    clear: both;
+}
+.wrapper{
+    width: 400px;
+    margin: 0 auto;
+}
+.header{
+    background-color: #141f40;
+    height: 60px;
+    width: 360px;
+    padding: 20px;
+}
+.whitebox{
+    float: right;
+    background-color: white;
+    height: 40px;
+    width: 140px;
+    padding: 10px;
+}
+.violet1{
+    background-color: #a9004b;
+    float: left;
+    height: 40px;
+    width: 40px;
+
+}
+.violet2{
+    background-color: #a9004b;
+    float: left;
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.violet3{
+    background-color: #a9004b;
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+
+.main{
+    height: 250px;
+    width: 100%;
+}
+.green{
+    background-color: #80bfa8;
+    height: 250px;
+    width: 150px;
+    float: left;
+}
+.right{
+    background-color: #8c2727;
+    float: right;
+    height: 250px;
+    width: 250px;
+}
+.orange1{
+    background-color: #ff863f;
+    height: 50px;
+    width: 150px;
+    margin: 40px 60px 10px 40px ;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+.orange2{
+    background-color: #ff863f;
+    height: 50px;
+    width: 150px;
+    margin: 10px 60px 10px 40px;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+.orange3{
+    background-color: #ff863f;
+    height: 50px;
+    width: 150px;
+    margin: 10px 60px 40px 40px;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+.footer{
+    background-color: #d98d30;
+    height: 100px;
+    width: 400px;
+}

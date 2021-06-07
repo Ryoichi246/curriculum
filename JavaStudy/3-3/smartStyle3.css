@@ -1,0 +1,58 @@
+@media screen and (max-width: 479px) {
+    .wrapper{
+        width: 200px;
+        height: 100%;
+    }
+    .header{
+        padding-top: 10px;
+        width: 160px;
+        height: 160px;
+    }
+    .whitebox{
+        padding: 10px;
+        float: none;
+        margin: 10px auto;
+        height: 140px;
+        width: 40px;
+    }
+    .main{
+        height: 100%;
+    }
+    .violet1{
+        float: none;
+        margin: 0px 0px 10px 0px;
+    }
+    .violet2{
+        float: none;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin: 0px 0px 0px 0px;
+    }
+    .violet3{
+        float: none;
+        margin: 10px 0px 10px 0px;
+    }
+    .green{
+        float: none;
+        width: 100%;
+        height: 80px;
+    }
+    .right{
+        padding-top: 20px;
+        height: 180px;
+        width: 100%;
+        float: none;
+    }
+    .orange1{
+        margin: 0px 30px 10px 30px;
+    }
+    .orange2{
+        margin: 5px 30px 10px 30px;
+    }
+    .orange3{
+        margin: 5px 30px 10px 30px;
+    }
+    .footer{
+        width: 100%;
+    }
+}
