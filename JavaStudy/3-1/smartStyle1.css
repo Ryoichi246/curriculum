@@ -1,0 +1,38 @@
+@media screen and (max-width: 767px) {
+    
+    body{
+        height: 100%;
+        width: 250px;
+    }
+    .wrapper{
+        width: 100%;
+    }
+    .main{
+        width: 100%;
+    }
+    .red{
+        width: 100px;
+    }
+}
+@media screen and (max-width: 479px) {
+    body{
+        width: 150px;
+    };
+    .wrapper{
+        width: 100%;
+    } 
+    .green{
+        float: none;
+        height: 250px;
+    }
+    .red{
+        height: 250px;
+        width: 150px;
+        float: none;
+    }   
+    .main{
+    float: none;
+    height: 100%;
+    }
+    
+}
